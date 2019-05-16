@@ -196,4 +196,6 @@ If you have any issue, please [create new issue](https://github.com/roanvanbao/l
 
 ## Todo
 
-Implementing social logins
+- Social logins
+- Error handling in forms
+
