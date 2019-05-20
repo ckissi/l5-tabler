@@ -27,7 +27,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Pingecom\\Tabler\\": "src/"
+            "Ckissi\\Tabler\\": "src/"
         },
         "files": [
             "src/helpers.php"
@@ -38,13 +38,13 @@
             "tests/TestCase.php"
         ],
         "psr-4": {
-            "Pingecom\\Tabler\\Tests\\": "tests/"
+            "Ckissi\\Tabler\\Tests\\": "tests/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Pingecom\\Tabler\\Providers\\TablerServiceProvider"
+                "Ckissi\\Tabler\\Providers\\TablerServiceProvider"
             ]
         }
     },
