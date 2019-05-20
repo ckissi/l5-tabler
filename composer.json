@@ -1,5 +1,5 @@
 {
-    "name": "pingecom/l5-tabler",
+    "name": "ckissi/l5-tabler",
     "description": "Tabler template for Laravel 5.*",
     "type": "library",
     "license": "MIT",
@@ -7,6 +7,10 @@
         {
             "name": "baorv",
             "email": "roanvanbao@gmail.com"
+        },
+        {
+            "name": "Csaba Kissi",
+            "email": "ckissi@gmail.com"
         }
     ],
     "require": {
